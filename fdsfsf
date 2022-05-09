@@ -1,0 +1,2 @@
+
+MsgBox(0, "My First Script!", "Hello World!" & @CRLF & "teste" & @CRLF & "testeee")
